@@ -15,7 +15,3 @@ For my sophomore summer, I was a Software Engineer Intern at Meta (it was Facebo
 Besides that, I also had a very undecorated competitive swimming career. I swam for NYU's varsity swim team during my freshman and junior year (COVID cancelled the sophomore season). I liked swimming breaststroke, fly, and IM. In my free time, I like to hang out with friends, play piano, watch TV/anime, and waste my time on YouTube.
 
 You might see some blog posts in the category of "Anthropocene-Review". This is taken from a book written by John Green called the [Anthropocene Reviewed](https://www.goodreads.com/book/show/55145261-the-anthropocene-reviewed). In brief, John Green gives a review on various topics that define experiences unique to our species, ranging from Mario Kart to the Academic Decathlon. I'm a fan of it, so I've decided to try it too.
-
-Oh, and here's my [resume](https://aaronh314.github.io/assets/Aaron_Hsieh_Resume.pdf).
-
-If you'd like to chat, please email me at "aaron.hsieh01[AT]gmail.com".
