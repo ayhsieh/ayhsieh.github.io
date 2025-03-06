@@ -6,7 +6,7 @@ order: 4
 
 Hi there! My name is Aaron. My middle name is Yaoyang, which comes from my Chinese name 謝曜揚. I was named after Aaron Copland, one of my dad's favorite composers. 
 
-I'm a student at NYU studying CS with a particular interest in machine learning and computational neuroscience. I'm also a member of NYU Tandon's honors program, [GLASS](http://engineering.nyu.edu/student/aaron-hsieh). 
+I'm a student at NYU studying CS with a particular interest in machine learning and computational neuroscience. I'm also a member of NYU Tandon's honors program, [GLASS](https://engineering.nyu.edu/student/aaron-hsieh). 
 
 Outside of studying, I'm a research assistant at a [computational neuroscience lab](http://www.cn3laboratory.org/home.html) at NYU Langone Health under Professor Zhe Sage Chen. In the past, I've participated in an entrepreneurship challenge and worked on applying machine learning models to [Sudden Unexpected Death in Epilepsy](https://www.cdc.gov/epilepsy/about/sudep/index.htm). I was fortunate enough to publish these results in a [paper](https://www.frontiersin.org/articles/10.3389/fneur.2022.858333/full). Currently, I'm trying to see if we can classify whether a patient has chronic back pain using EEG data as part of my GLASS senior capstone project. 
 
