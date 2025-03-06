@@ -3,7 +3,7 @@
 
 %heading {
   color: var(--heading-color);
-  font-weight: 400;
+  font-weight: 700;
   font-family: v.$font-family-heading;
   scroll-margin-top: 3.5rem;
 }
@@ -36,8 +36,9 @@
 }
 
 %table-cell {
+  font-family: v.$font-family-heading;
   padding: 0.4rem 1rem;
-  font-size: 95%;
+  font-size: 85%;
   white-space: nowrap;
 }
 

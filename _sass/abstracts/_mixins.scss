@@ -1,3 +1,5 @@
+@use 'variables' as v;
+
 @mixin text-ellipsis {
   overflow: hidden;
   text-overflow: ellipsis;
@@ -52,7 +54,8 @@
 @mixin prompt($type, $fa-content, $fa-style: 'solid', $rotate: 0) {
   &.prompt-#{$type} {
     background-color: var(--prompt-#{$type}-bg);
-
+    font-family: v.$font-family-heading;
+    font-size: 85%;
     &::before {
       content: $fa-content;
       color: var(--prompt-#{$type}-icon-color);
