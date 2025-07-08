@@ -1,5 +1,37 @@
 /*! Base */
 @font-face {
+    font-family: Charter;
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(Charter/Charter\ Regular.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: Charter;
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(Charter/Charter\ Bold.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: Charter;
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(Charter/Charter\ Bold.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: Charter;
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(Charter/Charter\ Bold.ttf) format('truetype')
+}
+
+@font-face {
     font-family: Newsreader;
     font-style: normal;
     font-weight: 400;
