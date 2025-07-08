@@ -1,5 +1,6 @@
 ---
 title: Handmade Gifts
+description: A review of handmade gifts.
 date: 2022-11-20
 categories: [Anthropocene-Reviewed]
 tags: [art, personal]
