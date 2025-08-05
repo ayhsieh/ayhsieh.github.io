@@ -97,7 +97,7 @@
 
 /*! Header */
 @font-face {
-    font-family: Head;
+    font-family: Noto_Sans;
     font-style: normal;
     font-weight: 400;
     font-display: swap;
@@ -105,7 +105,7 @@
 }
 
 @font-face {
-    font-family: Head;
+    font-family: Noto_Sans;
     font-style: normal;
     font-weight: 600;
     font-display: swap;
@@ -113,7 +113,7 @@
 }
 
 @font-face {
-    font-family: Head;
+    font-family: Noto_Sans;
     font-style: normal;
     font-weight: 700;
     font-display: swap;
@@ -121,9 +121,41 @@
 }
 
 @font-face {
-    font-family: Head;
+    font-family: Noto_Sans;
     font-style: normal;
     font-weight: 900;
     font-display: swap;
     src: url(Noto_Sans/NotoSans-Black.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: Jost;
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(Jost/Jost-Regular.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: Jost;
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(Jost/Jost-SemiBold.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: Jost;
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(Jost/Jost-Bold.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: Jost;
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(Jost/Jost-ExtraBold.ttf) format('truetype')
 }
