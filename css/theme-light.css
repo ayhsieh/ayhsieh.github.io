@@ -1,0 +1,15 @@
+/* Light Mode Color Scheme */
+:root[data-theme="light"] {
+    --bg-primary: #faf8f5;
+    --bg-secondary: #f9f9f9;
+    --text-primary: #2c2c2c;
+    --text-heading: #1a1a1a;
+    --text-subheading: #3a3a3a;
+    --text-meta: #5a5a5a;
+    --text-muted: #666;
+    --link-color: #2563eb;
+    --link-hover: #1d4ed8;
+    --accent-color: #0066cc;
+    --border-color: #d4cfc4;
+    --border-light: #e0e0e0;
+}

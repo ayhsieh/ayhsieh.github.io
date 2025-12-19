@@ -1,0 +1,28 @@
+# Personal Information
+name: Aaron Hsieh
+subtitle: Medical Student<br>University of Pennsylvania
+profilePhoto: assets/photos/avatar.jpg
+
+# Social and Professional Links
+links:
+  - text: aaron.hsieh [at] pennmedicine.upenn.edu
+    icon: email
+
+  # - text: Twitter
+  #   url: https://twitter.com/yourhandle
+  #   target: _blank
+
+  # - text: Google Scholar
+  #   url: https://scholar.google.com/yourprofile
+  #   target: _blank
+  #   icon: scholar
+
+  - text: GitHub
+    url: https://github.com/ayhsieh
+    target: _blank
+    icon: github
+
+  - text: LinkedIn
+    url: https://www.linkedin.com/in/~aaronh/
+    target: _blank
+    icon: linkedin
