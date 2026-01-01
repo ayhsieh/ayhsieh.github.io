@@ -334,9 +334,4 @@ pre code {
     h1 {
         font-size: 1.5rem;
     }
-
-    .links {
-        flex-direction: column;
-        gap: 10px;
-    }
 }
