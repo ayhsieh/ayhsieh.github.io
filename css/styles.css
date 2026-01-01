@@ -58,7 +58,7 @@ body {
 
 /* Sidebar */
 .sidebar {
-    flex: 0 0 250px;
+    flex: 0 0 300px;
     position: sticky;
     top: 40px;
     max-height: calc(100vh - 40px);
@@ -293,12 +293,30 @@ pre code {
     .sidebar {
         position: static;
         flex: none;
+        align-items: center;
+        text-align: center;
+    }
+
+    .sidebar .profile-photo {
+        max-width: 200px;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     .links {
         flex-direction: row;
         flex-wrap: wrap;
         gap: 15px;
+        justify-content: center;
+    }
+
+    #theme-toggle {
+        position: fixed;
+        bottom: 20px;
+        left: 20px;
+        margin-top: 0;
+        margin-bottom: 0;
+        z-index: 1000;
     }
 }
 

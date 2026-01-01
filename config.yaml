@@ -5,8 +5,8 @@ profilePhoto: assets/photos/avatar.jpg
 
 # Social and Professional Links
 links:
-  - text: aaron.hsieh [at] pennmedicine.upenn.edu
-    icon: email
+  # - text: aaron.hsieh [at] pennmedicine.upenn.edu
+  #   icon: email
 
   # - text: Twitter
   #   url: https://twitter.com/yourhandle
