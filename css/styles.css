@@ -58,7 +58,7 @@ body {
 
 /* Sidebar */
 .sidebar {
-    flex: 0 0 300px;
+    flex: 0 0 250px;
     position: sticky;
     top: 40px;
     max-height: calc(100vh - 40px);
@@ -284,10 +284,11 @@ pre code {
 }
 
 
-@media (max-width: 968px) {
+@media (max-width: 900px) {
     .container {
         flex-direction: column;
         gap: 40px;
+        padding: 30px 20px;
     }
 
     .sidebar {
@@ -317,21 +318,5 @@ pre code {
         margin-top: 0;
         margin-bottom: 0;
         z-index: 1000;
-    }
-}
-
-@media (max-width: 768px) {
-    .container {
-        padding: 30px 15px;
-    }
-
-    h1 {
-        font-size: 1.75rem;
-    }
-}
-
-@media (max-width: 480px) {
-    h1 {
-        font-size: 1.5rem;
     }
 }
