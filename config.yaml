@@ -26,3 +26,8 @@ links:
     url: https://www.linkedin.com/in/~aaronh/
     target: _blank
     icon: linkedin
+
+  - text: Resume
+    url: assets/Aaron_Hsieh_Resume.pdf
+    target: _blank
+    icon: resume
